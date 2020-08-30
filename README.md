@@ -17,4 +17,5 @@ If not explicitly stated otherwise all the files in this project are distributed
 ## Author
 
 Filippo Ghibellini - Arch Silence
+
 Reese Armstrong (FORK) - Arco Slience

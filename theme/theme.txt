@@ -31,7 +31,7 @@ terminal-border: "0"
 + image {
 	top = 50%-200
 	left = 50%-75
-    file = "arch_logo.png"
+    file = "arcolinux.png"
 }
 
 #boot menu

@@ -1,9 +1,7 @@
 
-# Arch-Silence GRUB2 theme
+# Arco-Silence GRUB2 theme
 
-My flat GRUB2 theme.
-
-<img src="./preview.png" width="400">
+A fork of the flat GRUB2 theme Arch Silence
 
 ## Font
 
@@ -18,4 +16,5 @@ If not explicitly stated otherwise all the files in this project are distributed
 
 ## Author
 
-Filippo Ghibellini
+Filippo Ghibellini - Arch Silence
+Reese Armstrong (FORK) - Arco Slience
